@@ -1,0 +1,11 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "kafka-streams": "^2.3.0",
+    "node-rdkafka": "^1.0.4"
+  }
+}
